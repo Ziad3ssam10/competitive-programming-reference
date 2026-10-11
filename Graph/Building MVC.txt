@@ -1,0 +1,3 @@
+Give orientation to the edges, matched edges start from the right side of the graph to the left side, and free edges start from the left side of the graph to the right side.
+Run DFS from unmatched nodes of the left side, in this traversal some nodes will become visited, others will stay unvisited.
+The MVC nodes are the visited nodes from the right side, and unvisited nodes from the left side.

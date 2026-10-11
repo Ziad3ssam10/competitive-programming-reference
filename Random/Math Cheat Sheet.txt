@@ -1,0 +1,2 @@
+Summation n1Ci * n2C(i+d) maps to, n1+n2C(n1 + d)
+Summation (k from 1 to min(L,R)) LC(k-1) * RCk maps to (L+R)C(L+1) 

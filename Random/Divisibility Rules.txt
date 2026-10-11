@@ -1,0 +1,14 @@
+2 The last digit should be even.
+3 The sum of the digits should be divisible by 3.
+4 The last two digits should be divisible by 4.
+5 The last digit should either be 0 or 5.
+6 The number should be divisible by both 2 and 3.
+7 The double of the last digit, when subtracted by the rest of the number, the difference obtained should be divisible by 7.
+8 The last three digits should be divisible by 8.
+9 The sum of the digits should be divisible by 9.
+10 The last digit should be 0.
+11 The difference of the alternating sum of digits should be divisible by 12.
+12 The number should be divisible by both 3 and 4.
+13 The four times of the last digit, when added to the rest of the number, the result obtained should be divisible by 13.
+17 The five times of the last digit, when subtracted by the rest of the number, the difference obtained should be divisible by 17.
+19 The double of the last digit, when added to the rest of the number, the result obtained should be divisible by 19.
